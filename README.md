@@ -1,4 +1,4 @@
-# Hi, I am Vincent
+# Hi, I am Vincent Li
 
 I am studying for the MSc in Statistical Finance. Before that, I was a maths student at the University of Warwick. 
 
