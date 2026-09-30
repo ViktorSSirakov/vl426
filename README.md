@@ -1,4 +1,4 @@
-# Introduction Repository 
+# Hi, I am Vincent
 
 I am studying for the MSc in Statistical Finance. Before that, I was a maths student at the University of Warwick. 
 
@@ -8,5 +8,5 @@ I am interested in the following modules:
 3. Deep Learning
 4. Optimisation
 
-[Course Link](https://www.imperial.ac.uk/study/courses/postgraduate-taught/statistics/)
+[COURSE LINK](https://www.imperial.ac.uk/study/courses/postgraduate-taught/statistics/)
 
