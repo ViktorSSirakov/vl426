@@ -8,5 +8,5 @@ I am interested in the following modules:
 3. Deep Learning
 4. Optimisation
 
-[COURSE LINK](https://www.imperial.ac.uk/study/courses/postgraduate-taught/statistics/)
+[Course Link](https://www.imperial.ac.uk/study/courses/postgraduate-taught/statistics/)
 
